@@ -50,3 +50,6 @@ _ This analysis aims to observe which features are most helpful in predicting ma
 **5_Data Exploration & Analysis (EDA)**
 
 **6_Data Modelling**
+
+## Data set :-
+**You can download Data and understand it From [here](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) or [from this Drive](https://drive.google.com/file/d/1wDjDuqDPAJd1cQEICcu19J9vrjFAWJ1H/view)**
